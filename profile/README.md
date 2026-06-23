@@ -27,16 +27,26 @@
       <img src="https://img.shields.io/badge/GitHub-jeffhouse622%40gmail.com-181717?style=flat-square&logo=github&logoColor=white"/>
     </td>
     <td align="center" width="230">
+      <a href="https://github.com/limtjdghks">
+        <img src="https://github.com/limtjdghks.png" width="100" style="border-radius:50%;" alt="임성환"/>
+      </a><br/>
       <b>임성환</b><br/>
       <img src="https://img.shields.io/badge/iOS_Lead-0ea5e9?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-epaktldk0203%40gmail.com-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/limtjdghks">
+        <img src="https://img.shields.io/badge/limtjdghks-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="230">
+      <a href="https://github.com/hamtorygoals">
+        <img src="https://github.com/hamtorygoals.png" width="100" style="border-radius:50%;" alt="윤해민"/>
+      </a><br/>
       <b>윤해민</b><br/>
       <img src="https://img.shields.io/badge/Server_Lead-1e3a8a?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-yhaemin0531%40naver.com-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/hamtorygoals">
+        <img src="https://img.shields.io/badge/hamtorygoals-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
   <tr>
