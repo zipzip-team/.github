@@ -51,10 +51,15 @@
   </tr>
   <tr>
     <td align="center" width="230">
+      <a href="https://github.com/eileen273">
+        <img src="https://github.com/eileen273.png" width="100" style="border-radius:50%;" alt="박주윤"/>
+      </a><br/>
       <b>박주윤</b><br/>
       <img src="https://img.shields.io/badge/PM-f59e0b?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-jyoonp273%40gmail.com-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/eileen273">
+        <img src="https://img.shields.io/badge/eileen273-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="230">
       <b>류단아</b><br/>
