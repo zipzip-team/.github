@@ -21,10 +21,15 @@
       </a>
     </td>
     <td align="center" width="230">
+      <a href="https://github.com/KRUSER1231">
+        <img src="https://github.com/KRUSER1231.png" width="100" style="border-radius:50%;" alt="최동욱"/>
+      </a><br/>
       <b>최동욱</b><br/>
       <img src="https://img.shields.io/badge/Design_Lead-a855f7?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-jeffhouse622%40gmail.com-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/KRUSER1231">
+        <img src="https://img.shields.io/badge/KRUSER1231-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="230">
       <a href="https://github.com/limtjdghks">
