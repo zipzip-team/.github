@@ -67,10 +67,15 @@
       </a>
     </td>
     <td align="center" width="230">
+      <a href="https://github.com/ddanah">
+        <img src="https://github.com/ddanah.png" width="100" style="border-radius:50%;" alt="류단아"/>
+      </a><br/>
       <b>류단아</b><br/>
       <img src="https://img.shields.io/badge/Design-a855f7?style=flat-square"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/GitHub-rdyah16%40gmail.com-181717?style=flat-square&logo=github&logoColor=white"/>
+      <a href="https://github.com/ddanah">
+        <img src="https://img.shields.io/badge/ddanah-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
     </td>
     <td align="center" width="230">
       <a href="https://github.com/mansuiki">
