@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F25C38,45:FF4E2E,100:FFAA32&height=220&section=header&text=Zipzip&fontSize=82&fontColor=ffffff&animation=twinkling&stroke=F25C38&strokeWidth=1&desc=TEAM&descSize=30&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F25C38,45:FF4E2E,100:FFAA32&height=220&section=header&text=zipz!p&fontSize=82&fontColor=ffffff&animation=twinkling&stroke=F25C38&strokeWidth=1&desc=TEAM&descSize=30&descAlignY=72" width="100%"/>
 
 <br/>
 
