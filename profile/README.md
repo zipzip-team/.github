@@ -5,7 +5,7 @@
 
 <br/>
 
-<h2>ZIPZIP</h2>
+<h2>zipz!p</h2>
 
 <p>
   여러 기기에 흩어진 사진을 더 쉽게 찾고, 분류하고, 함께 다시 볼 수 있도록 돕는 사진 정리 서비스입니다.<br/>
@@ -139,6 +139,6 @@
 
 <br/>
 
-<sub>© 2026 Team Zipzip</sub>
+<sub>© 2026 Team zipz!p</sub>
 
 </div>
