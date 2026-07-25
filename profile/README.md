@@ -5,6 +5,25 @@
 
 <br/>
 
+<h2>ZIPZIP</h2>
+
+<p>
+  여러 기기에 흩어진 사진을 더 쉽게 찾고, 분류하고, 함께 다시 볼 수 있도록 돕는 사진 정리 서비스입니다.<br/>
+  사진 메타데이터를 바탕으로 날짜·장소·촬영 기기 기준의 탐색과 공유 앨범 경험을 제공합니다.
+</p>
+
+<p>
+  <a href="https://github.com/zipzip-team/zipzip-iOS">zipzip-iOS</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zipzip-team/zipzip-server">zipzip-server</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/zipzip-team/zipzip-photobooth">zipzip-photobooth</a>
+</p>
+
+<p><sub>저장소별 실행 방법과 기술 문서는 각 저장소의 README에서 확인할 수 있습니다.</sub></p>
+
+<br/>
+
 ### `MEMBERS`
 
 <table>
